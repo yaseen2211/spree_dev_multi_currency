@@ -6,7 +6,7 @@ require 'spree_multi_currency/version'
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_multi_currency'
+  s.name        = 'spree_dev_multi_currency'
   s.version     = SpreeMultiCurrency.version
   s.summary     = 'Provide currency customization for Spree Commerce.'
   s.description = s.summary
